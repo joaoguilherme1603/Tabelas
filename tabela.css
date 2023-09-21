@@ -1,0 +1,18 @@
+td, th {
+    padding: .7em;
+    margin: 0;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  td{
+    font-weight:bold;
+  }
+  
+  table{
+    width: 90%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+    margin: auto;
+  }
